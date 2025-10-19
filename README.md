@@ -20,7 +20,9 @@ It allows users to upload an image and get real-time recognition results using *
 
 Here are a few example outputs from the Image Recognition Website:
 
-![Result 1]()
+![Result 1](https://raw.githubusercontent.com/23it101PopatHemangi/image_recognization_website/main/Output/Screenshot%202025-10-19%20134418.png)
 ![Result 2](https://raw.githubusercontent.com/23it101PopatHemangi/image_recognization_website/main/Output/Screenshot%202025-10-19%20134534.png)
 ![Result 3](https://raw.githubusercontent.com/23it101PopatHemangi/image_recognization_website/main/Output/Screenshot%202025-10-19%20134723.png)
+)
+
 
