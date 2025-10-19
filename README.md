@@ -48,7 +48,7 @@ Here are a few example outputs from the Image Recognition Website:
 |------------|-------------|
 | Backend | Flask (Python) |
 | Frontend | HTML, CSS, JavaScript |
-| ML Model | YOLOv5 |
+| ML Model | YOLOv5, mobilenet_v2 |
 | Image Processing | OpenCV, Pillow |
 
 
