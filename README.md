@@ -17,13 +17,22 @@ It allows users to upload an image and get real-time recognition results using *
 
 ## 🗂️ Project Structure
 
-📁 image_recognization_website
-├── 📄 app.py
-├── 📄 requirements.txt
-├── 📄 index.html
-├── 📁 static/
-├── 📁 uploads/
-└── 📁 Output/ ← contains example result images
+image_recognization_website/
+│
+├── app.py
+├── requirements.txt
+├── index.html
+│
+├── static/
+│ └── (CSS, JS, assets)
+│
+├── uploads/
+│ └── (uploaded user images)
+│
+├── Output/
+│ └── (example result images)
+│
+└── README.md
 
 ## 🖼️ Output Results
 
