@@ -17,6 +17,7 @@ It allows users to upload an image and get real-time recognition results using *
 
 ## 🗂️ Project Structure
 
+```markdown
 📁 image_recognization_website/
 │
 ├── app.py
@@ -32,6 +33,8 @@ It allows users to upload an image and get real-time recognition results using *
 │
 └── 📁 Output/
     └── (example result images)
+```
+
 
 
 ## 🖼️ Output Results
