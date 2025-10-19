@@ -33,6 +33,7 @@ It allows users to upload an image and get real-time recognition results using *
 └── 📁 Output/
     └── (example result images)
 
+
 ## 🖼️ Output Results
 
 Here are a few example outputs from the Image Recognition Website:
